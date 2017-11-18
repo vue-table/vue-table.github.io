@@ -1,0 +1,38 @@
+[
+  {
+    "name": "item 1",
+    "amount": 2,
+    "price": 100,
+    "show": true
+  },
+  {
+    "name": "item 2",
+    "amount": 4,
+    "price": 100,
+    "show": true
+  },
+  {
+    "name": "item 3",
+    "amount": 6,
+    "price": 100,
+    "show": true
+  },
+  {
+    "name": "item 4",
+    "amount": 8,
+    "price": 100,
+    "show": true
+  },
+  {
+    "name": "item 5",
+    "amount": 10,
+    "price": 100,
+    "show": true
+  },
+  {
+    "name": "item 6",
+    "amount": 12,
+    "price": 100,
+    "show": true
+  }
+]
